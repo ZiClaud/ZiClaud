@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiClaud&show_icons=true&theme=github-dark-blue&hide_border=true)
 -->
 
 <div id="stats" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiClaud&show_icons=true&theme=vue-dark&hide_border=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZiClaud&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZiClaud&show_icons=true&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
