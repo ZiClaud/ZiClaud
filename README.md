@@ -8,7 +8,28 @@
 
 ###### Full-stack - Web - Mobile - Game Development
 
+<!--
+<a href="https://claudiodimaio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-portfolio?style=for-the-badge&logoColor=white&color=010208" />
+</a>
+<a rel="me" href="https://mastodon.social/@ziclaud">
+  <img src="https://img.shields.io/badge/Mastodon-social?style=for-the-badge&logo=Mastodon&logoColor=white&color=563ACC" />
+</a>
+<a href="https://github/ZiClaud">
+  <img src="https://img.shields.io/badge/GitHub-git?style=for-the-badge&logo=github&logoColor=white&color=101411" />
+</a>
+<a href="https://gitlab.com/ZiClaud">
+  <img src="https://img.shields.io/badge/GitLab-git?style=for-the-badge&logo=gitlab&logoColor=white&color=E24329" />
+</a>
+<a href="codeberg.org/ZiClaud">
+  <img src="https://img.shields.io/badge/Codeberg-git?style=for-the-badge&logo=codeberg&logoColor=white&color=2185D0" />
+</a>
+<a href="https://ziclaud.itch.io/">
+  <img src="https://img.shields.io/badge/Itch-git?style=for-the-badge&logo=itch&logoColor=white&color=fa5c5c" />
+</a>
+-->
 </div>
+
 
 ## What I Work With
 
@@ -51,6 +72,7 @@
     <img src="https://skillicons.dev/icons?i=godot&perline=8" />
   </a>
 </div>
+
 
 ## GitHub Activity
 
