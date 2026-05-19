@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Logo" width="150" src="https://codeberg.org/avatars/ad274f7e6d13495f9572505a742233780b6464eb236e9b32553d8dbb265df5c1">
+<img alt="Logo" width="150" src="https://avatars.githubusercontent.com/u/56027915">
 
 <h1>ZiClaud</h1>
 
